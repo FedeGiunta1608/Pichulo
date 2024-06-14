@@ -1,3 +1,4 @@
-#Hola manga de pobres
-##Bienvenidos a... _"pichulo"_
-###Espero se sientan a gusto y sino, busquen otro silla
+_Hola manga de pobres_
+*Bienvenidos* a... _"pichulo"_
+Espero se sientan _a gusto_ y sino, busquen *otra silla*
+
